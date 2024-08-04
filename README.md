@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sidhartha Reddy</h1>
 <h3 align="center">A tech enthusiast from India, exploring the realms of Machine learning, Deep learning, Backend development, and Microcontrollers.</h3>
 
-<img align='right' alt='coding' width='400' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR6Z3kxZ2UzcTk2M24yM2F6YjJzZ3g5MWpqZjJoNTdwcjNoeTB4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp">
+<img align='right' alt='coding' width='300' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BvZjgweDZwOWI3c2huZTZ1OGRpZjRkdmJ5ZHgwejA1YmlkMTJoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthareddy99&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthareddy99" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sidharthareddy114@gmail.com**
 
-- ⚡ Fun fact **I love blending technology with creativity, whether it's through building smart gadgets with microcontrollers or diving deep into neural networks and AI models.**
+- ⚡ Fun fact: **Trust me I'm an Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
