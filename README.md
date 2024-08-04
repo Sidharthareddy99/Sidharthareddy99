@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sidhartha Reddy</h1>
 <h3 align="center">A tech enthusiast from India, exploring the realms of Machine learning, Deep learning, Backend development, and Microcontrollers.</h3>
 
+<img align='right' alt='coding' width='400' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR6Z3kxZ2UzcTk2M24yM2F6YjJzZ3g5MWpqZjJoNTdwcjNoeTB4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthareddy99&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthareddy99" /> </p>
 
 - 🔭 I’m currently working on **Intelligent File Management System.**
