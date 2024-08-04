@@ -1,3 +1,4 @@
+![logo](https://github.com/Sidharthareddy99/Sidharthareddy99/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sidhartha Reddy</h1>
 <h3 align="center">A tech enthusiast from India, exploring the realms of Machine learning, Deep learning, Backend development, and Microcontrollers.</h3>
 
