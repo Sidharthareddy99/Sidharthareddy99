@@ -1,6 +1,6 @@
 # Hi there, I'm Sidhartha Reddy! 👋
 
-![Profile Banner](https://github.com/Sidharthareddy99/Sidharthareddy99/blob/main/Banner.png)
+![Profile Banner](https://github.com/Sidharthareddy99/Sidharthareddy99/blob/6c07efaaf9b4b2cf44d294739ab4278c4a95946e/banner-sid.png)
 
 ## About Me
 
