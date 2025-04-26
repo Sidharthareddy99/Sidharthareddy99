@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello World, I'm Sidhartha Reddy!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Sidhartha Reddy!
 
 <div align="center">
 <!--   <img src="https://github.com/Sidharthareddy99/Sidharthareddy99/blob/6c07efaaf9b4b2cf44d294739ab4278c4a95946e/banner-sid.png" alt="Sidhartha Reddy Banner" width="100%"> -->
